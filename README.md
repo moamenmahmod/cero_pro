@@ -1,4 +1,4 @@
-# 🔥 Recursive Cero Automation Script
+#  Recursive Cero Automation Script
 
 Automate deep recursive subdomain enumeration using [cero](https://github.com/glebarez/cero) with logging, target folders, and colored terminal output.
 
@@ -65,26 +65,6 @@ Results are saved inside your home directory under:
 - ✅ [cero](https://github.com/glebarez/cero) installed and in your `$PATH`
 - ✅ `bash` (tested on Linux and macOS)
 - ✅ `sed`, `sort`, `comm`, `mktemp` (standard UNIX tools)
-
----
-
-## 💪 Pro Tips
-
-- Works great with other recon tools (like **Amass**, **Subfinder**)
-- You can run multiple targets separately using the `-t` flag
-- Logs allow easy resume and tracking of what was scanned and found
-
----
-
-## 📝 License
-
-MIT License — free to use, modify, and share!
-
----
-
-## 🤝 Contributing
-
-Feel free to open issues or submit pull requests to improve the script (add auto-resume, more tool integrations, etc.).
 
 ---
 
